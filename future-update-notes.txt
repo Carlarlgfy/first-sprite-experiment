@@ -1,0 +1,13 @@
+-the next update should be combining
+the physics of the mementum square game
+with the controls of this game
+
+-then pritning food + algorithm
+ for randomly printing on the screen
+
+ -add a number of fries eaten score at the top?
+
+ -add a hunger mechanic
+
+ -add the zombie chaser with similar
+ physics to the character
