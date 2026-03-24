@@ -1,13 +1,12 @@
--the next update should be combining
-the physics of the mementum square game
-with the controls of this game
+-one of the problems is each frame is 64x64 pixels, but the 
+actual sprite is smaller than that.
+this goes for all of the sprites
+there hit box should only encompass the actual pixels
+the spirte occupies
 
--then pritning food + algorithm
- for randomly printing on the screen
+-there should be momentum, friction,
+and when the character sprite hits the wall 
+there should be a reversal of momentum like a bounce
 
- -add a number of fries eaten score at the top?
-
- -add a hunger mechanic
-
- -add the zombie chaser with similar
- physics to the character
+-zombie should move slightly 
+faster and also have momentum friciton and bounce
